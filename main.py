@@ -1,23 +1,22 @@
-print('You wake up as God,never brush your teeth, kill your cat becuase cats<dogs')
+print('You wake up as God,never brush your teeth, kill your dog for existing')
 
-choice1 = input('Do you do [hw] or play on [relax]/do something fun')
-if choice1== 'relax' or choice1==' relax':
-  print("you end up falling asleep and wake up at 5 and remember hw")
+choice1 = input('[kill] family or [cure] cancer')
+if choice1== 'kill':
+  print("Depressed because you killed your family")
 
-  choice1b=input("you do 'hw' or you 'dont' and keep putting it off")
-  if choice1b=="hw" or choice1b==" hw":
-    print("you get good grades and you keep relaxing the end.")
+  choice1b=input("you love 'life' or you 'dont' and still be depressed")
+  if choice1b=="life" or choice1b==" life":
+    print("live worshipped and adored")
   else:
-      print("you do horribly in school and dont really care that much The End.")
+        choice1c=input("Your life ends in eternal suffering because of your lack of self help")
+
+elif choice1 == 'cure':
+  print("everybody worships and loves you")
 
 
-if choice1 == 'hw' or choice1==' hw':
-  print("You get you homework done fast and get to do something fun, you aso get good grades.")
-
-
-  choice1a=input("you go to the [park] or watch [tv]")
-  if choice1a=="park" or choice1a==" park":
-    print("You see a dog it bites you the end.")
+  choice1a=input("you go to the [hospital] or watch [monkey's doing math]")
+  if choice1a=="hospital" or choice1a==" hospital":
+    print("cancer patient bites you")
   else:
-    print("you watch tv and get bored so you read. The End.")
+    print("Fall asleep watching monkeys doing math")
  
