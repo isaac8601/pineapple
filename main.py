@@ -1,4 +1,8 @@
+health=10
+
 def god():
+
+  print("health",health)
 
   print('You wake up as God,never brush your teeth, kill your dog for existing')
 
